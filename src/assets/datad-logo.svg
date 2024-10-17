@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400">
+  <rect width="400" height="400" fill="#b8e7ff"/>
+  <path d="M100 100 L200 100 L300 200 L200 300 L100 300 L100 100 Z" fill="none" stroke="#00429f" stroke-width="24"/>
+  <path d="M200 100 L300 200 L200 300" fill="none" stroke="#00429f" stroke-width="24"/>
+  <text x="50" y="375" font-family="Arial, sans-serif" font-size="72" font-weight="bold" fill="#00429f">DATAD</text>
+  <text x="50" y="395" font-family="Arial, sans-serif" font-size="16" fill="#00429f">THE STORY BEHIND THE NUMBERS</text>
+</svg>
